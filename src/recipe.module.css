@@ -7,7 +7,7 @@
   justify-content: space-around;
   background: white;
   align-items: center;
-  width: 30%;
+  min-width: 30%;
 }
 .img {
   width: 100%;
