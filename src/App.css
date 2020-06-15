@@ -39,4 +39,7 @@ h3 {
     .recipe {
         width: 90%;
     }
+  .search-bar {
+    width: 55%;
+  }
   }
