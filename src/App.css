@@ -35,3 +35,8 @@ h3 {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+@media only screen and (max-width: 600px) {
+    .recipe {
+        width: 90%;
+    }
+  }
