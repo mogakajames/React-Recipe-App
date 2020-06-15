@@ -7,7 +7,7 @@
   justify-content: space-around;
   background: white;
   align-items: center;
-  min-width: 30%;
+  width: 30%;
 }
 .img {
   width: 100%;
@@ -16,3 +16,8 @@
 .h {
   color: lightgreen;
 }
+@media only screen and (max-width: 600px) {
+    .recipe {
+        width: 30%;
+    }
+  }
